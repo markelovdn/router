@@ -8,6 +8,6 @@
     <title>Создать спортсмена</title>
 </head>
 <body>
-<h1>Создать спортсмена</h1>
+<h1>Create data</h1>
 </body>
 </html>
