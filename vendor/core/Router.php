@@ -43,8 +43,8 @@ class Router {
             if($url == $useruri) {
                 self::$route = $route;
                 return true;
-            } return false;
-        }
+            }
+        } return false;
     }
 
     /*
